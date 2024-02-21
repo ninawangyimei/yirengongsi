@@ -17,13 +17,22 @@ export default defineConfig({
       {
         text: '博客精华',
         items: [
-          { text: '卡颂（一）', link: '/docs/podcast/kasong01.md' },
           {
-            text: '卡颂（二）',
+            text: '卡颂（一）：不会编程的国企员工不是好魔术师',
+            link: '/docs/podcast/kasong01.md',
+          },
+          {
+            text: '卡颂（二）：在我这个很小的领域，我是没有竞争对手的',
             link: '/docs/podcast/kasong02.md',
           },
-          { text: '卡颂（三）', link: '/docs/podcast/kasong03.md' },
-          { text: '卡颂（四）', link: '/docs/podcast/kasong04.md' },
+          {
+            text: '卡颂（三）：提供价值是启动副业的关键',
+            link: '/docs/podcast/kasong03.md',
+          },
+          {
+            text: '卡颂（四）：如何做到每天只工作 2 小时',
+            link: '/docs/podcast/kasong04.md',
+          },
         ],
       },
       {
