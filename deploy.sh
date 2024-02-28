@@ -12,7 +12,7 @@ npm run docs:build
 cd .vitepress/dist
 
 # 拷贝目录和文件
-cp -r ../../.github ./
+# cp -r ../../.github ./
 
 git init
 git add -A
