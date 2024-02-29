@@ -1,12 +1,11 @@
 import { defineConfig } from 'vitepress';
-// import path from "path";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: '一人公司手册',
   description: '',
   appearance: 'dark',
-  // base: path.resolve(__dirname, "../"),
+  base: "/yirengongsi/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
