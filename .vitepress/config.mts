@@ -5,7 +5,7 @@ export default defineConfig({
   title: '一人公司手册',
   description: '',
   appearance: 'dark',
-  base: "/yirengongsi/",
+  // base: "/yirengongsi/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
