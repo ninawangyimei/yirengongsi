@@ -38,7 +38,7 @@ export default defineConfig({
         text: '案例拆解',
         items: [
           // { text: '案例一', link: '/docs/example/unknown.md' },
-          { text: '案例一', link: '/docs/unknown.md' },
+          { text: '案例一', link: '/docs/case/case01.md' },
         ],
       },
       {
