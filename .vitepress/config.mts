@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: '一人公司手册',
+  title: '一人公司',
   description: '',
   appearance: 'dark',
   // base: "/yirengongsi/",
