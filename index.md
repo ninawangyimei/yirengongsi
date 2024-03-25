@@ -7,10 +7,10 @@ hero:
   tagline: 持续探索自由职业/个体创业的多元可能性，有感性故事、有硬核干货，沉淀中国版一人公司相关的各类最新资讯与一线经验。
   actions:
     - theme: brand
-      text: 一起来探索吧
+      text: 开始
       link: /docs/podcast/index
     - theme: alt
-      text: 订阅更新
+      text: 了解更多
       link: /docs/about
 
 features:
