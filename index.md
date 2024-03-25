@@ -8,13 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 一起来探索吧
-      link: /docs/podcast/kasong01
+      link: /docs/podcast/index
     - theme: alt
       text: 订阅更新
       link: /docs/about
-  image:
-    src: /imgs/yirengongsi_logo.jpg
-    alt: yirengongsi
 
 features:
   - icon: 📻
@@ -23,7 +20,7 @@ features:
   - icon: 📰
     title: 内容
     details: 往期采访嘉宾高质量内容输出信息汇总
-  - icon: 🧑‍🤝‍🧑
+  - icon: 👬
     title: 社群
     details: 加入我们链接更多一人公司创业者，共创更多优质内容
   - icon: 🏙️
