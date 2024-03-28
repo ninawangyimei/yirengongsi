@@ -67,7 +67,7 @@ export default defineConfig({
     ],
     footer: {
       message:
-        "网站技术支持由 <a href='https://shanyuzhuyun.pages.dev/docs/about.html'>@山雨竹韵</a> 友情赞助 💖",
+        "网站技术支持由 <a href='https://shanyuzhuyun.com/docs/about.html'>@山雨竹韵</a> 友情赞助 💖",
       copyright: 'CopyRight © 2023-present 门冬冬',
     },
   },
